@@ -21,7 +21,7 @@ import com.jonahseguin.drink.provider.spigot.ConsoleCommandSenderProvider;
 import com.jonahseguin.drink.provider.spigot.PlayerProvider;
 import com.jonahseguin.drink.provider.spigot.PlayerSenderProvider;
 import lombok.Getter;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.bukkit.ChatColor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.command.ConsoleCommandSender;
